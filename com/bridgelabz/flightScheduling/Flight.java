@@ -1,5 +1,6 @@
 package com.bridgelabz.flightScheduling;
 
+
 public class Flight<T> {
     private T flightNumber;
     private String departure;
